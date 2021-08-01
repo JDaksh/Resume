@@ -1,0 +1,55 @@
+{
+	"basics": {
+		"name": "Daksh Joshi",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/1od7SGf9B8dFkmgcToOJpvIArKRrA4hiD/view?usp=sharing",
+		"email": "2020KUCP1085@iiitkota.ac.in",
+		"phone": "8290775367",
+		"summary": "I'm currently a second year student at IIIT Kota, CSE branch.",
+		"location": {
+			"address": "A2/12, Sector-22, Rajasthan",
+			"postalCode": "302017",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "JDaksh",
+				"url": "https://github.com/JDaksh"
+			},
+			{
+				"network": "linkedin",
+				"username": "Daksh Joshi",
+				"url": "https://www.linkedin.com/in/daksh-joshi-2865941ba/"
+			},
+			{
+				"network": "Instagram",
+				"username": "daksh_._j",
+				"url": "https://www.instagram.com/daksh_._j/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-11-30//Date"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "Python", "C/C++",]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Volleyball"]
+	}],
+}
